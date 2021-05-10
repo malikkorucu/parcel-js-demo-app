@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head><link rel="stylesheet" href="/home-page.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css">
+    <meta charset="utf-8">
+    <title>My Parcel Project</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- <div class="box" style="background-position: 0px 0px"></div>
+      <div class="box" style="background-position: -150px 0px"></div>
+      <div class="box" style="background-position: -300px 0px"></div>
+
+      <div class="box" style="background-position: 0px -150px"></div>
+      <div class="box" style="background-position: -150px -150px"></div>
+      <div class="box" style="background-position: -300px -150px"></div>
+
+      <div class="box" style="background-position: 0px -300px"></div>
+      <div class="box" style="background-position: -150px -300px"></div>
+      <div class="box" style="background-position: -300px -300px"></div> -->
+
+      <div class="box" style="background-position: 0px 0px
+"></div>
+      <div class="box" style="background-position: -150px 0px
+"></div>
+      <div class="box" style="background-position: -300px 0px
+"></div>
+
+      <div class="box" style="background-position: 0px -150px
+"></div>
+      <div class="box" style="background-position: -150px -150px
+"></div>
+      <div class="box" style="background-position: -300px -150px
+"></div>
+      <div class="box" style="background-position: 0px 0px
+"></div>
+      <div class="box" style="background-position: 0px 0px
+"></div>
+      <div class="box" style="background-position: 0px 0px
+"></div>
+
+    </div>
+    <script src="/home-page.HASH_REF_0fa2489aa94c8731ee2aee9f3fafb3e2.js"></script>
+  </body>
+</html>

@@ -1,0 +1,21 @@
+body,
+html {
+  background: #dedede;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.box {
+  background: url("https://lh3.googleusercontent.com/proxy/Yo4I1WYqclDjDL3W--86A0sRp3D4W2ThYoIJ1Gpn4J2HRhVf5JaX4XOOjI7Yov2g62a0MajjX7f8sIpxbX3NtxbJghI1M8uCIXRNcBqs1KDUx7XUTeV0eOuC1t7a3wPqJpA-hwlIxnxXoQzfB60byOyVFCE");
+  width: 450px;
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.clip-path {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 20px;
+  clip-path: polygon(28% 11%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 33% 36%, 0% 75%);
+}

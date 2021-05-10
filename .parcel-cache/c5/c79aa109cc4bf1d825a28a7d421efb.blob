@@ -1,0 +1,4 @@
+var _main = require('./main');
+var _parcelHelpers = require("@parcel/transformer-js/lib/esmodule-helpers.js");
+var _mainDefault = _parcelHelpers.interopDefault(_main);
+_mainDefault.default();

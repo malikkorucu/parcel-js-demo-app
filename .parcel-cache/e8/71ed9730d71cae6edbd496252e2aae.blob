@@ -1,0 +1,7 @@
+body {
+  background: #dedede;
+}
+
+.box .sub-box {
+  border: 1px solid #c26e6e;
+}

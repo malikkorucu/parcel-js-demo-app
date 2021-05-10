@@ -1,0 +1,33 @@
+body,
+html {
+  background: #dedede;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 480px;
+}
+
+.container .box {
+  background: url("ddc77be5360d049633eb36bb2a092da9");
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+  margin-top: 10px;
+  background-repeat: no-repeat;
+}
+
+.container .box:hover {
+  opacity: 0.9;
+}
+
+.clip-path {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 20px;
+  clip-path: polygon(28% 11%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 33% 36%, 0% 75%);
+}

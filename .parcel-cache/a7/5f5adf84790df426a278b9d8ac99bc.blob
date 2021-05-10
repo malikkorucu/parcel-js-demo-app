@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 480px;
+}
+.container .box {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+  margin-top: 10px;
+  background: url("https://lh3.googleusercontent.com/proxy/Yo4I1WYqclDjDL3W--86A0sRp3D4W2ThYoIJ1Gpn4J2HRhVf5JaX4XOOjI7Yov2g62a0MajjX7f8sIpxbX3NtxbJghI1M8uCIXRNcBqs1KDUx7XUTeV0eOuC1t7a3wPqJpA-hwlIxnxXoQzfB60byOyVFCE");
+}
+
+.image {
+  background: url("https://lh3.googleusercontent.com/proxy/Yo4I1WYqclDjDL3W--86A0sRp3D4W2ThYoIJ1Gpn4J2HRhVf5JaX4XOOjI7Yov2g62a0MajjX7f8sIpxbX3NtxbJghI1M8uCIXRNcBqs1KDUx7XUTeV0eOuC1t7a3wPqJpA-hwlIxnxXoQzfB60byOyVFCE");
+}

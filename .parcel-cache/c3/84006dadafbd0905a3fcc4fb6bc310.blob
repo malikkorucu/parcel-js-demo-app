@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100&display=swap");
+body,
+html {
+  background: #dedede;
+  height: 100%;
+}
+
+.box a:hover {
+  border: 1px solid #c26e6e;
+}
+.box:hover {
+  border: 1px solid red;
+}
+.box::after {
+  content: "asdfasdfasdfasdf";
+  width: 20px;
+  height: 20px;
+  background-color: #c70f0f;
+}
+
+.clip-path {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 20px;
+  clip-path: polygon(28% 11%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 33% 36%, 0% 75%);
+}

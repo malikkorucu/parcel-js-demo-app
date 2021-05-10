@@ -1,0 +1,22 @@
+body {
+  background: #dedede;
+}
+
+.box a:hover {
+  border: 1px solid #c26e6e;
+}
+.box:hover {
+  border: 1px solid red;
+}
+.box::after {
+  content: "asdfasdfasdfasdf";
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
+.box::before {
+  content: "asdfasdfasdfasdf";
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}

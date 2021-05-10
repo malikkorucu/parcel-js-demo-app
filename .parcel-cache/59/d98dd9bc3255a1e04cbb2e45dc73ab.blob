@@ -1,0 +1,15 @@
+body,
+html {
+  background: #dedede;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.clip-path {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 20px;
+  clip-path: polygon(28% 11%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 33% 36%, 0% 75%);
+}
+/*# sourceMappingURL=home-page.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css.map */

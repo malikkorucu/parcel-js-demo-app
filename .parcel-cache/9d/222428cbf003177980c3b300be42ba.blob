@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 480px;
+}
+.container .box {
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+  margin-top: 10px;
+  background: url("ddc77be5360d049633eb36bb2a092da9");
+}
+.image {
+  background: url("ddc77be5360d049633eb36bb2a092da9");
+}

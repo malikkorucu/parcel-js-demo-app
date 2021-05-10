@@ -1,0 +1,21 @@
+body,
+html {
+  background: #dedede;
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+}
+
+.box {
+  background: url("173e2a530f9a27e7d62b1dc68570472b");
+  width: 200px;
+  height: 200px;
+  background-size: auto;
+}
+
+.clip-path {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin-top: 20px;
+  clip-path: polygon(28% 11%, 100% 0%, 100% 75%, 75% 75%, 75% 100%, 33% 36%, 0% 75%);
+}

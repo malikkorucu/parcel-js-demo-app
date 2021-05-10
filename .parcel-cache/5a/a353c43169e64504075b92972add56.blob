@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Parcel Project</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="box"></div>
+      <div class="box" style="9c890f88c784938cd490339c73f1adca"></div>
+      <div class="box"></div>
+    </div>
+    <script src="ee451c9e015004367d0ae24c7b53e719"></script>
+  </body>
+</html>

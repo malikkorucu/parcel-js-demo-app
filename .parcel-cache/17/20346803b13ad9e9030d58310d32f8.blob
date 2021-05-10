@@ -1,0 +1,24 @@
+body,
+html {
+  background: #dedede;
+  height: 100%;
+}
+
+.box a:hover {
+  border: 1px solid #c26e6e;
+}
+.box:hover {
+  border: 1px solid red;
+}
+.box::after {
+  content: "asdfasdfasdfasdf";
+  width: 20px;
+  height: 20px;
+  background-color: #c70f0f;
+}
+
+.clip-path {
+  width: 200px;
+  height: 200px;
+}
+/*# sourceMappingURL=home-page.HASH_REF_91870f3c19f8a82cc61dbb48b05be581.css.map */
